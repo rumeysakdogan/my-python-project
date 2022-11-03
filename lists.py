@@ -1,5 +1,5 @@
 # List: [] to store multiple elements in a single variable
-# A list can contain different data types
+# A list can contain different data types,list has indexes and ordered.
 # Basic list operations :
 # create list
 my_list = ["January", "February", "March"]

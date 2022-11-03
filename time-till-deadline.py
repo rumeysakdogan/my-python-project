@@ -44,12 +44,12 @@ Module -> Any Python file is a module
 Package -> Collection of python modules
   * Package must include an __init__.py file
   * This __init__ file distinguishes a package from a directory
+Library -> Collection of packages
 """
 
 """
-How to download a package from PyPI?
-
-pip: is a package manager for python
+   How to download a package from PyPI?
+* pip: is a package manager for python
 used to install manager for Python Package Index, but also other indexes
 ex: pip install Django / pip uninstall Django
 """
